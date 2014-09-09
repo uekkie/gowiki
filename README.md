@@ -1,3 +1,6 @@
 # golang 練習場
 
-- feature-A
+## Golangを練習しています。
+
+
+- http://golang.org/doc/articles/wiki/ をつくっています。
